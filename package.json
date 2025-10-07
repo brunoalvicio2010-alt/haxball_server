@@ -1,9 +1,11 @@
 {
   "name": "los-maniwwarriors-room",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
-    "haxball-headless": "*"
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2"
   },
   "scripts": {
     "start": "node index.js"
