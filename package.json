@@ -1,0 +1,11 @@
+{
+  "name": "los-maniwwarriors-room",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "haxball-headless": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
