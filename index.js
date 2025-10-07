@@ -8,7 +8,7 @@ var room = HBInit({
   maxPlayers: 10,
   public: true,
   noPlayer: true,
-  token: "PEGÁ_ACÁ_TU_TOKEN"
+  token: "thr1.AAAAAGjkasXO2aH6X2PczQ.R1h2K6qbo6c"
 });
 
 room.setDefaultStadium("Classic");
